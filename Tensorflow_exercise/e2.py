@@ -1,3 +1,5 @@
+#   Linear Regression
+#   Tensorflow & numpy
 import tensorflow as tf
 import numpy as np
 
