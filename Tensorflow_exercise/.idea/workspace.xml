@@ -18,8 +18,8 @@
       <file leaf-file-name="e3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/e3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+            <state relative-caret-position="335">
+              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding>
                 <element signature="e#64#87#0" expanded="true" />
               </folding>
@@ -30,8 +30,8 @@
       <file leaf-file-name="e4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/e4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding>
                 <element signature="e#104#127#0" expanded="true" />
               </folding>
@@ -53,16 +53,16 @@
       <list>
         <option value="$PROJECT_DIR$/e1.py" />
         <option value="$PROJECT_DIR$/e2.py" />
-        <option value="$PROJECT_DIR$/e4.py" />
         <option value="$PROJECT_DIR$/e3.py" />
+        <option value="$PROJECT_DIR$/e4.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="y" value="24" />
-    <option name="width" value="655" />
-    <option name="height" value="744" />
+    <option name="x" value="55" />
+    <option name="y" value="-4" />
+    <option name="width" value="1311" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -100,7 +100,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.e3">
+  <component name="RunManager" selected="Python.e4">
     <configuration default="false" name="e3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,6 +114,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Tensorflow_exercise" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="e4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Tensorflow_exercise" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -252,12 +269,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.e3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.e4" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.e3" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.e4" />
+        <item index="1" class="java.lang.String" itemvalue="Python.e3" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +294,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="24" width="655" height="744" extended-state="0" />
+    <frame x="55" y="-4" width="1311" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36708862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -283,7 +302,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45967743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -325,8 +344,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/e4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="e#104#127#0" expanded="true" />
           </folding>
@@ -335,8 +354,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/e3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        <state relative-caret-position="335">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding>
             <element signature="e#64#87#0" expanded="true" />
           </folding>
